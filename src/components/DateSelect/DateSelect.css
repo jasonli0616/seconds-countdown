@@ -1,0 +1,9 @@
+.date-select {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: fit-content;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+}

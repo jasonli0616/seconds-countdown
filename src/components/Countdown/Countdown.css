@@ -1,0 +1,14 @@
+.countdown {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.countdown h1, .countdown h2, .countdown p {
+    margin: 0;
+}
+
+.countdown h1 {
+    padding: 10px 0;
+}
