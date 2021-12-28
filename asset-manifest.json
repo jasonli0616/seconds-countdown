@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seconds-countdown/static/css/main.b32ce70f.css",
+    "main.js": "/seconds-countdown/static/js/main.db702bb3.js",
+    "index.html": "/seconds-countdown/index.html",
+    "main.b32ce70f.css.map": "/seconds-countdown/static/css/main.b32ce70f.css.map",
+    "main.db702bb3.js.map": "/seconds-countdown/static/js/main.db702bb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b32ce70f.css",
+    "static/js/main.db702bb3.js"
+  ]
+}
