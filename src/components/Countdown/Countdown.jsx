@@ -2,6 +2,8 @@ import { useState } from 'react';
 import './Countdown.css';
 
 export default function Countdown(props) {
+    if (props.title)
+        document.title = `${props.title} - Seconds Countdown`;
 
     const getSeconds = () => {
         // Get current time in Unix time
